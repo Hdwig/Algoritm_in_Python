@@ -32,6 +32,7 @@ def merge_sort(array):
     return array
 
 
+
 data = [round(random.uniform(1, 50,), 2) for i in range(8)]
 print(data)
 merge_sort(data)

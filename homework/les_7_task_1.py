@@ -15,4 +15,3 @@ mass = [i for i in range(-5, 5)]
 random.shuffle(mass)
 print(mass)
 print(unshuffle(mass))
-
