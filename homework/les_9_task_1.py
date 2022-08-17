@@ -43,4 +43,4 @@ def task(s: str):
 
 if __name__ == "__main__":
     str = input("Введите текст: ")
-    task(str.replace(" ",""))
+    task(str.replace(" " , ""))
